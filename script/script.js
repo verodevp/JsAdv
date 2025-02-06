@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
 
     const tableVaccini = document.getElementById("tableVaccini")
    
-    const APIUrl = "vaccini.json"
+    const APIUrl = "script/vaccini.json"
     console.log(APIUrl)
     
 
